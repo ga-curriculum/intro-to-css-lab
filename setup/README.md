@@ -1,4 +1,4 @@
-# ![[Setup] - Setup](./assets/setup.png)
+# ![Setup](../assets/press-release-lab-setup.png)
 
 ## Setup
 
@@ -26,6 +26,12 @@ Next, `cd` into your new cloned directory, `press-release-lab`:
 
 ```bash
 cd press-release-lab
+```
+
+Then, create an `index.html` file and a `style.css` file. Both of these files will be used for this lab: 
+
+```bash
+touch index.html css/style.css
 ```
 
 Open the project's folder in your code editor:

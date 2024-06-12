@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./tktk)
+# ![Press Release Lab](./assets/press-release-lab.png)
 
 ## About
 
