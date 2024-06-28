@@ -1,8 +1,10 @@
-# ![Press Release Lab](./assets/press-release-lab.png)
+# ![Press Release Lab](./assets/intro-to-css-lab-header.png)
 
 ## About
 
-In this lab, you take an unofficial GA press release and stylize it using CSS stylesheets. You will have a set of requirements that you must meet but it is up to you how creative you get with the press release.  
+### GA Press Release
+
+In this lab, you take an unofficial GA press release and stylize it using CSS stylesheets. You will have a set of requirements that you must meet but it is up to you how creative you get with the press release. 
 
 ## Prerequisites
 
