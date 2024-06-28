@@ -2,9 +2,9 @@
 
 ## About
 
-### GA Press Release
+### GA `Press Release`
 
-In this lab, you take an unofficial GA press release and stylize it using CSS stylesheets. You will have a set of requirements that you must meet but it is up to you how creative you get with the press release. 
+In this lab, you'll transform an unofficial General Assembly press release by adding structure with HTML and style with CSS. You'll need to meet specific technical requirements, but you have the freedom to get creative with how you present and design the press release. Let your imagination guide you as you practice and enhance your coding skills!
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ In this lab, you take an unofficial GA press release and stylize it using CSS st
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **30 min**
+Estimated time to complete core lab exercise: **60 min**
 
 ## Content
 
@@ -22,7 +22,7 @@ Estimated time to complete core lab exercise: **30 min**
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/press-release-hw-lab-solution)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-css-lab-solution)
 
 ## Internal resources
 
