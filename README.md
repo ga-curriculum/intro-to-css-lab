@@ -13,7 +13,7 @@ In this lab, you'll transform an unofficial General Assembly press release by ad
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **60 min**
+Estimated time to complete core lab exercise: **90 min**
 
 ## Content
 
